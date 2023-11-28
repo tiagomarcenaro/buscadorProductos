@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Control de Stock y Carrito</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    /* Agregar estilos personalizados si es necesario */
+  </style>
+</head>
+<body class="container">
+
+  <h1 class="text-center mt-3 mb-5">Barraca Ladrillos SRL</h1>
+
+  <!-- Formulario de Registro de Productos -->
+  <div class="mb-5">
+    <h2>Registro de Productos</h2>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nombre</th>
+          <th>Descripción</th>
+          <th>Cantidad en Stock</th>
+          <th>Costo (en pesos)</th>
+          <th>Acciones</th>
+        </tr>
+      </thead>
+      <tbody id="productTableBody">
+        <!-- Los productos se cargarán dinámicamente aquí -->
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Carrito de Compras -->
+  <div>
+    <h2>Carrito de Compras</h2>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Cantidad</th>
+          <th>Precio Unitario</th>
+          <th>Precio Total</th>
+          <th>Acciones</th>
+        </tr>
+      </thead>
+      <tbody id="cartTableBody">
+        <!-- Los elementos del carrito se cargarán dinámicamente aquí -->
+      </tbody>
+    </table>
+
+    <p>Total de la Compra: <span id="totalPrice">0</span></p>
+    <button class="btn btn-primary" onclick="buy()">Comprar</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

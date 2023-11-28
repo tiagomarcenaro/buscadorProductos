@@ -1,0 +1,144 @@
+{
+  "productos": [
+    {
+      "id": "001",
+      "nombre": "Taladro Eléctrico Profesional",
+      "descripción": "Potente taladro eléctrico para trabajos intensivos.",
+      "cantidad": 50,
+      "costo": 89.99
+    },
+    {
+      "id": "002",
+      "nombre": "Juego de Llaves de Vaso",
+      "descripción": "Set de llaves de vaso de alta calidad para diversas aplicaciones.",
+      "cantidad": 30,
+      "costo": 54.49
+    },
+    {
+      "id": "003",
+      "nombre": "Sierra de Mano Plegable",
+      "descripción": "Sierra de mano plegable para cortes precisos en cualquier lugar.",
+      "cantidad": 40,
+      "costo": 19.99
+    },
+    {
+      "id": "004",
+      "nombre": "Linterna Recargable",
+      "descripción": "Linterna LED recargable para iluminación en trabajos nocturnos.",
+      "cantidad": 20,
+      "costo": 32.99
+    },
+    {
+      "id": "005",
+      "nombre": "Juego de Destornilladores Magnéticos",
+      "descripción": "Juego de destornilladores magnéticos con puntas intercambiables.",
+      "cantidad": 35,
+      "costo": 22.75
+    },
+    {
+      "id": "006",
+      "nombre": "Máscara de Protección Respiratoria",
+      "descripción": "Máscara facial con filtro para protección respiratoria en ambientes polvorientos.",
+      "cantidad": 60,
+      "costo": 14.99
+    },
+    {
+      "id": "007",
+      "nombre": "Cadena de Acero Resistente",
+      "descripción": "Cadena de acero resistente para trabajos de sujeción pesados.",
+      "cantidad": 100,
+      "costo": 8.25
+    },
+    {
+      "id": "008",
+      "nombre": "Guantes de Seguridad Industrial",
+      "descripción": "Guantes de seguridad resistentes para trabajos industriales.",
+      "cantidad": 25,
+      "costo": 19.99
+    },
+    {
+      "id": "009",
+      "nombre": "Cautín Profesional",
+      "descripción": "Cautín eléctrico profesional para trabajos de soldadura precisos.",
+      "cantidad": 15,
+      "costo": 69.49
+    },
+    {
+      "id": "010",
+      "nombre": "Cinta de Medición Resistente",
+      "descripción": "Cinta de medición resistente y retráctil para mediciones precisas.",
+      "cantidad": 50,
+      "costo": 12.99
+    },
+    {
+      "id": "011",
+      "nombre": "Llave Ajustable de Alta Resistencia",
+      "descripción": "Llave ajustable de alta resistencia para múltiples tamaños.",
+      "cantidad": 45,
+      "costo": 16.99
+    },
+    {
+      "id": "012",
+      "nombre": "Escalera Telescópica Profesional",
+      "descripción": "Escalera telescópica de aluminio para trabajos en altura.",
+      "cantidad": 10,
+      "costo": 129.99
+    },
+    {
+      "id": "013",
+      "nombre": "Pintura Antioxidante",
+      "descripción": "Pintura antioxidante para proteger metales contra la corrosión.",
+      "cantidad": 20,
+      "costo": 19.99
+    },
+    {
+      "id": "014",
+      "nombre": "Alicates de Corte Industrial",
+      "descripción": "Alicates de corte industrial para trabajos pesados.",
+      "cantidad": 40,
+      "costo": 32.49
+    },
+    {
+      "id": "015",
+      "nombre": "Herramienta Multifunción Todo en Uno",
+      "descripción": "Herramienta multifunción con múltiples herramientas integradas.",
+      "cantidad": 18,
+      "costo": 49.99
+    },
+    {
+      "id": "016",
+      "nombre": "Cadenas de Seguridad Reforzadas",
+      "descripción": "Cadenas de seguridad reforzadas para trabajos extremos.",
+      "cantidad": 30,
+      "costo": 29.99
+    },
+    {
+      "id": "017",
+      "nombre": "Lámpara de Trabajo LED de Alta Potencia",
+      "descripción": "Lámpara LED portátil de alta potencia para iluminación intensiva.",
+      "cantidad": 25,
+      "costo": 42.99
+    },
+    {
+      "id": "018",
+      "nombre": "Anclajes de Pared de Acero Inoxidable",
+      "descripción": "Anclajes de pared de acero inoxidable para fijaciones duraderas.",
+      "cantidad": 15,
+      "costo": 24.49
+    },
+    {
+      "id": "019",
+      "nombre": "Chapas de Puerta de Alta Seguridad",
+      "descripción": "Chapas de puerta de alta seguridad para protección máxima.",
+      "cantidad": 22,
+      "costo": 39.99
+    },
+    {
+      "id": "020",
+      "nombre": "Máscara de Soldadura Automática",
+      "descripción": "Máscara de soldadura con oscurecimiento automático para mayor comodidad.",
+      "cantidad": 12,
+      "costo": 59.99
+    }
+  ]
+}
